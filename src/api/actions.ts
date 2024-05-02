@@ -1,6 +1,6 @@
 import axios, { AxiosError } from "axios";
 
-const API_URL = "https://orange-space-orbit-4jjg5g999772v99-3000.app.github.dev/api";
+const API_URL = "https://reimagined-space-goggles-v9x44977pj7269q7-3000.app.github.dev/api";
 
 export const getWeatherData = async (city: string): Promise<WeatherData> => {
   return new Promise<WeatherData>((resolve, reject) => {

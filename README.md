@@ -45,7 +45,7 @@ To set up the project locally, follow these steps:
 
 The frontend app is designed to work with the `weather_API` built in week 3 with Express. However, your browser will throw a cors polity error. To address that we must install cors and use it in the `server.ts` file as follows:
 
-1. Open the [weather_api](https://github.com/lucian-duta/weather_api) in Codespaces or locally.
+1. Open the [weather_api](https://github.com/SAMARTH-SHARMA3/week_5_weather_api) in Codespaces or locally.
 2. Run the following command in the terminal to install cors:
 
    ```bash
@@ -76,12 +76,11 @@ The frontend app is designed to work with the `weather_API` built in week 3 with
 
 ## Weather API Documentation
 
-For detailed information on the weather API endpoints, parameters, and responses, refer to the week 3 tutorial and the [Weather API Documentation](https://github.com/lucian-duta/weather_api).
+For detailed information on the weather API endpoints, parameters, and responses, refer to [Weather API Documentation]
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-For any queries or further assistance, please contact [Lucian Duta](mailto:l.duta@uel.ac.uk).
+## Author
+Samarth Sharma
